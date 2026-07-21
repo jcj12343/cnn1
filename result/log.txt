@@ -1,0 +1,58 @@
+Training Start | Epochs:50, Batch:64, LR:0.001
+============================================================
+Epoch 01/50 | Train Loss:0.1767 Train Acc:0.9492 | Val Loss:0.0684 Val Acc:0.9780
+Epoch 02/50 | Train Loss:0.0603 Train Acc:0.9818 | Val Loss:0.0495 Val Acc:0.9845
+Epoch 03/50 | Train Loss:0.0436 Train Acc:0.9864 | Val Loss:0.0413 Val Acc:0.9875
+Epoch 04/50 | Train Loss:0.0345 Train Acc:0.9895 | Val Loss:0.0431 Val Acc:0.9862
+Epoch 05/50 | Train Loss:0.0290 Train Acc:0.9909 | Val Loss:0.0397 Val Acc:0.9870
+Epoch 06/50 | Train Loss:0.0256 Train Acc:0.9918 | Val Loss:0.0327 Val Acc:0.9883
+Epoch 07/50 | Train Loss:0.0202 Train Acc:0.9937 | Val Loss:0.0367 Val Acc:0.9877
+Epoch 08/50 | Train Loss:0.0164 Train Acc:0.9947 | Val Loss:0.0348 Val Acc:0.9895
+Epoch 09/50 | Train Loss:0.0146 Train Acc:0.9950 | Val Loss:0.0407 Val Acc:0.9880
+Epoch 10/50 | Train Loss:0.0124 Train Acc:0.9960 | Val Loss:0.0402 Val Acc:0.9875
+Epoch 11/50 | Train Loss:0.0108 Train Acc:0.9965 | Val Loss:0.0401 Val Acc:0.9887
+Epoch 12/50 | Train Loss:0.0083 Train Acc:0.9975 | Val Loss:0.0411 Val Acc:0.9892
+Epoch 13/50 | Train Loss:0.0082 Train Acc:0.9973 | Val Loss:0.0459 Val Acc:0.9887
+Epoch 14/50 | Train Loss:0.0081 Train Acc:0.9971 | Val Loss:0.0485 Val Acc:0.9885
+Epoch 15/50 | Train Loss:0.0053 Train Acc:0.9981 | Val Loss:0.0544 Val Acc:0.9870
+Epoch 16/50 | Train Loss:0.0058 Train Acc:0.9981 | Val Loss:0.0751 Val Acc:0.9843
+Epoch 17/50 | Train Loss:0.0066 Train Acc:0.9978 | Val Loss:0.0500 Val Acc:0.9885
+Epoch 18/50 | Train Loss:0.0035 Train Acc:0.9988 | Val Loss:0.0610 Val Acc:0.9893
+Epoch 19/50 | Train Loss:0.0043 Train Acc:0.9987 | Val Loss:0.0584 Val Acc:0.9887
+Epoch 20/50 | Train Loss:0.0045 Train Acc:0.9986 | Val Loss:0.0583 Val Acc:0.9877
+Epoch 21/50 | Train Loss:0.0045 Train Acc:0.9981 | Val Loss:0.0721 Val Acc:0.9868
+Epoch 22/50 | Train Loss:0.0031 Train Acc:0.9990 | Val Loss:0.0694 Val Acc:0.9878
+Epoch 23/50 | Train Loss:0.0029 Train Acc:0.9989 | Val Loss:0.0708 Val Acc:0.9868
+Epoch 24/50 | Train Loss:0.0048 Train Acc:0.9982 | Val Loss:0.0904 Val Acc:0.9827
+Epoch 25/50 | Train Loss:0.0042 Train Acc:0.9985 | Val Loss:0.0683 Val Acc:0.9883
+Epoch 26/50 | Train Loss:0.0021 Train Acc:0.9992 | Val Loss:0.0599 Val Acc:0.9902
+Epoch 27/50 | Train Loss:0.0012 Train Acc:0.9996 | Val Loss:0.0713 Val Acc:0.9878
+Epoch 28/50 | Train Loss:0.0049 Train Acc:0.9981 | Val Loss:0.0617 Val Acc:0.9895
+Epoch 29/50 | Train Loss:0.0021 Train Acc:0.9993 | Val Loss:0.0669 Val Acc:0.9897
+Epoch 30/50 | Train Loss:0.0017 Train Acc:0.9995 | Val Loss:0.0666 Val Acc:0.9900
+Epoch 31/50 | Train Loss:0.0054 Train Acc:0.9981 | Val Loss:0.0718 Val Acc:0.9882
+Epoch 32/50 | Train Loss:0.0022 Train Acc:0.9991 | Val Loss:0.0813 Val Acc:0.9863
+Epoch 33/50 | Train Loss:0.0016 Train Acc:0.9995 | Val Loss:0.0706 Val Acc:0.9890
+Epoch 34/50 | Train Loss:0.0007 Train Acc:0.9998 | Val Loss:0.0762 Val Acc:0.9895
+Epoch 35/50 | Train Loss:0.0011 Train Acc:0.9996 | Val Loss:0.0972 Val Acc:0.9870
+Epoch 36/50 | Train Loss:0.0075 Train Acc:0.9976 | Val Loss:0.0843 Val Acc:0.9878
+Epoch 37/50 | Train Loss:0.0014 Train Acc:0.9996 | Val Loss:0.0720 Val Acc:0.9893
+Epoch 38/50 | Train Loss:0.0015 Train Acc:0.9995 | Val Loss:0.0789 Val Acc:0.9887
+Epoch 39/50 | Train Loss:0.0020 Train Acc:0.9994 | Val Loss:0.0779 Val Acc:0.9890
+Epoch 40/50 | Train Loss:0.0029 Train Acc:0.9991 | Val Loss:0.0837 Val Acc:0.9882
+Epoch 41/50 | Train Loss:0.0034 Train Acc:0.9989 | Val Loss:0.0757 Val Acc:0.9882
+Epoch 42/50 | Train Loss:0.0023 Train Acc:0.9991 | Val Loss:0.0900 Val Acc:0.9888
+Epoch 43/50 | Train Loss:0.0023 Train Acc:0.9991 | Val Loss:0.0869 Val Acc:0.9883
+Epoch 44/50 | Train Loss:0.0012 Train Acc:0.9996 | Val Loss:0.0849 Val Acc:0.9873
+Epoch 45/50 | Train Loss:0.0015 Train Acc:0.9995 | Val Loss:0.0956 Val Acc:0.9883
+Epoch 46/50 | Train Loss:0.0024 Train Acc:0.9992 | Val Loss:0.0896 Val Acc:0.9878
+Epoch 47/50 | Train Loss:0.0017 Train Acc:0.9993 | Val Loss:0.1034 Val Acc:0.9872
+Epoch 48/50 | Train Loss:0.0003 Train Acc:0.9999 | Val Loss:0.0954 Val Acc:0.9893
+Epoch 49/50 | Train Loss:0.0014 Train Acc:0.9995 | Val Loss:0.0882 Val Acc:0.9877
+Epoch 50/50 | Train Loss:0.0035 Train Acc:0.9989 | Val Loss:0.0844 Val Acc:0.9878
+
+==================================================
+Final Test Evaluation Result
+Average Test Loss: 0.0786
+Test Accuracy: 0.9903
+==================================================
